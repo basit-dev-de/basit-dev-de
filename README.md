@@ -23,7 +23,7 @@
 
 ## 🌍 Portfolio Website
 
-**🔗 \*\***[Live Portfolio][https://basit-dev.com](https://basit-dev.com)\*\*
+**🔗 **Portfolio:** [https://basit-dev.com](https://basit-dev.com)
 
 ---
 
