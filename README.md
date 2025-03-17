@@ -63,10 +63,20 @@
 - **Scalable frontend development** using **React, Redux, and micro-frontends**.
 - Optimized **performance, security, and maintainability** with TDD and Jest.
 
+[Website](https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro)
+
 ### 🛒 **Al Habib Pharmacy – E-Commerce Platform**
 
 - **Designed and developed a scalable e-commerce UI** with **Next.js, TailwindCSS, and Redux**.
 - **Optimized for SEO, performance, and cross-platform accessibility**.
+
+[Website](https://alhabibpharmacy.com)
+
+### 🔥 **Salam Telecom DMS Portal**
+- **Centralized data management system** for **telecom transactions**, **balance** **recharges**, and **user activity tracking**.
+- Built using **React, Redux, MUI and CSS-in-JS**.
+
+[Website](https://salammobile.sa/en/)
 
 ### 🔥 **CodeBattle – Real-time Competitive Coding Platform**
 
@@ -89,6 +99,38 @@
 - **AI Agent Chatbot**: Developed an AI-driven chatbot integrated into the portfolio, leveraging OpenAI models for dynamic responses.
 - **OpenAI Model Integrations**: Experimenting with various OpenAI models for workflow automation and AI-powered applications.
 
+### 🤖 **Job Copilot** _(AI-powered Job Application Tracker)_
+
+- **Automates job tracking** with n8n workflows and email parsing.
+- **Notifies users via WhatsApp** for important job application updates.
+- **Built with React, TypeScript, and OpenAI API**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/job-copilot/)
+
+### 💰 **Expense Tracker** _(Personal Finance Manager)_
+
+- **Track income & expenses** with real-time balance updates.
+- **Responsive design** with persistent data using LocalStorage.
+- **Built with React, TypeScript, and TailwindCSS**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/expense-tracker/#/)
+
+### 📈 **Market Dashboard** _(Real-time Financial Insights)_
+
+- **Visualizes stock market trends** with dynamic charts.
+- **Fetches live financial data** via APIs.
+- **Built with React, TypeScript, and Recharts**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/market-dashboard/)
+
+### 🌐 **Portfolio 2.0** _(Interactive Personal Website)_
+
+- **Showcases skills, projects, and blog posts**.
+- **Features an AI chatbot** built with OpenAI API.
+- **Built with React, TypeScript, TailwindCSS, and Framer Motion**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/portfolio-2/)
+
 ---
 
 ## 🏆 Certifications & Achievements
@@ -109,6 +151,3 @@
 ---
 
 🚀 **Always open for collaborations and exciting projects!** Let's build something amazing! ✨
-
-
-🚀 Always up for collaboration and new challenges!
