@@ -78,43 +78,6 @@
 
 [Website](https://salammobile.sa/en/)
 
-### 🔥 **CodeBattle – Real-time Competitive Coding Platform**
-
-- **Live coding battles** with **real-time WebSocket communication** and **automated test case evaluation**.
-- Built using **React, Node.js, WebSockets, and PostgreSQL**.
-
-### 🎨 **PixelCraft – Online Pixel Art Editor**
-
-- Developed a **fun and interactive pixel art tool** using **Canvas API and React**.
-- Enabled **image exporting and customizable grid sizes**.
-
-### 📅 **TaskFlow – Task Manager with Kanban UI**
-
-- Built a **drag-and-drop task manager** with **state management using Zustand**.
-- Integrated **beautiful animations with Framer Motion**.
-
-### 🔄 **n8n Workflow Automations**
-
-- **Job Application Tracker**: An automated workflow that tracks job-related emails, extracts important details, and forwards them to WhatsApp.
-- **AI Agent Chatbot**: Developed an AI-driven chatbot integrated into the portfolio, leveraging OpenAI models for dynamic responses.
-- **OpenAI Model Integrations**: Experimenting with various OpenAI models for workflow automation and AI-powered applications.
-
-### 🤖 **Job Copilot** _(AI-powered Job Application Tracker)_
-
-- **Automates job tracking** with n8n workflows and email parsing.
-- **Notifies users via WhatsApp** for important job application updates.
-- **Built with React, TypeScript, and OpenAI API**.
-
-🔗 [Live Demo](https://basit-dev-de.github.io/job-copilot/)
-
-### 💰 **Expense Tracker** _(Personal Finance Manager)_
-
-- **Track income & expenses** with real-time balance updates.
-- **Responsive design** with persistent data using LocalStorage.
-- **Built with React, TypeScript, and TailwindCSS**.
-
-🔗 [Live Demo](https://basit-dev-de.github.io/expense-tracker/#/)
-
 ### 📈 **Market Dashboard** _(Real-time Financial Insights)_
 
 - **Visualizes stock market trends** with dynamic charts.
@@ -123,6 +86,14 @@
 
 🔗 [Live Demo](https://basit-dev-de.github.io/market-dashboard/)
 
+### 🏡 **Smart Home Automation** _(IoT-Based Home Management)_
+
+- **Control and automate smart home devices** with real-time monitoring.
+- **Works with Alexa, Google Assistant, and Siri**.
+- **Built with React, TypeScript, and WebSockets**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/smart-home-automation/)
+
 ### 🌐 **Portfolio 2.0** _(Interactive Personal Website)_
 
 - **Showcases skills, projects, and blog posts**.
@@ -130,6 +101,30 @@
 - **Built with React, TypeScript, TailwindCSS, and Framer Motion**.
 
 🔗 [Live Demo](https://basit-dev-de.github.io/portfolio-2/)
+
+### 🤖 **Job Copilot** _(AI-powered Job Application Tracker)_
+
+- **Automates job tracking** with n8n workflows and email parsing.
+- **Notifies users via WhatsApp** for important job application updates.
+- **Built with React, TypeScript, and OpenAI API**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/job-copilot/#/onboarding)
+
+### 💰 **Expense Tracker** _(Personal Finance Manager)_
+
+- **Track income & expenses** with real-time balance updates.
+- **Responsive design** with persistent data using LocalStorage.
+- **Built with React, TypeScript, and TailwindCSS**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/expense-tracker/)
+
+### 💹 **Quantum Trading Platform** _(AI-Powered Trading Assistant)_
+
+- **Analyzes financial market trends** with real-time stock data.
+- **Provides AI-driven trading insights and predictions**.
+- **Built with React, TypeScript, and Financial APIs**.
+
+🔗 [Live Demo](https://basit-dev-de.github.io/quantum-trading-platform/)
 
 ---
 
@@ -151,3 +146,4 @@
 ---
 
 🚀 **Always open for collaborations and exciting projects!** Let's build something amazing! ✨
+
